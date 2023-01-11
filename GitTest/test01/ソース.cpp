@@ -8,5 +8,10 @@ int main(void)
 	printf("‚æ‚¤‚±‚»\n");
 	printf("‚æ‚¤‚±‚»\n");
 
+	for (int i = 0; i < 5; i++)
+	{
+		printf("‚³‚æ‚È‚ç\n");
+	}
+
 	return 0;
 }
